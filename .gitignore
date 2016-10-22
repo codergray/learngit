@@ -1,2 +1,5 @@
 # to ignore .idea folder under Webstorm:
 .idea
+
+# to ignore under Mac Os
+.DS_Store
